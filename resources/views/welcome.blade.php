@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                    Hello Laravel -by Alex
+		Call Me The King
                 </div>
             </div>
         </div>
